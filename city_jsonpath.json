@@ -1,0 +1,15 @@
+{
+    "jsonpaths": [
+        "$['city']",
+        "$['state']",
+        "$['count']",
+        "$['media_age']",
+        "$['male_population']",
+        "$['female_population']",
+        "$['total_population']",
+        "$['number_of_veterans']",
+        "$['foreign_born']",
+        "$['average_household_size']",
+        "$['state_code']"
+    ]
+}
